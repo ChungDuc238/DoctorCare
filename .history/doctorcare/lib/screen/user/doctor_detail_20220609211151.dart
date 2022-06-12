@@ -1,0 +1,16 @@
+
+import 'package:flutter/widgets.dart';
+
+class DoctorInfo extends StatefulWidget {
+  const DoctorInfo({super.key});
+
+  @override
+  State<DoctorInfo> createState() => _DoctorInfoState();
+}
+
+class _DoctorInfoState extends State<DoctorInfo> {
+  @override
+  Widget build(BuildContext context) {
+    return SCa;
+  }
+}

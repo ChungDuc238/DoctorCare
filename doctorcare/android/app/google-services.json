@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991851469077",
+    "project_id": "quanlybacsi",
+    "storage_bucket": "quanlybacsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991851469077:android:8ebe4815144b8e7891711c",
+        "android_client_info": {
+          "package_name": "com.example.doctorcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991851469077-qdpis0fh3vnrn35v8an634og04e4pu5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA98u95zao6QkDcV9YGOz9Etvx6sHJUCuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991851469077-qdpis0fh3vnrn35v8an634og04e4pu5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
