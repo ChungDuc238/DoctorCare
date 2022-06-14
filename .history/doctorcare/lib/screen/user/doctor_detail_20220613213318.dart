@@ -28,7 +28,7 @@ class _DoctorDetailsState extends State<DoctorDetails> {
           icon: const FaIcon(FontAwesomeIcons.chevronLeft),
           onPressed: () => Navigator.of(context).pop(),
         ),
-        title: const Text('Thông tin bác sĩ',
+        title: const Text('Details Doctor',
             style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
         actions: [
           IconButton(
@@ -127,7 +127,7 @@ class _DoctorDetailsState extends State<DoctorDetails> {
                               ),
                               Text(
                                 snapshot.data?.mota ?? '',
-                                style: TextStyle(fontSize: 18),
+                                s
                               )
                             ]),
                       ),
